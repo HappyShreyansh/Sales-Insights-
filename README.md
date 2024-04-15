@@ -6,6 +6,13 @@ Here is total revenue
 
 ![Screenshot 2024-04-15 103250](https://github.com/HappyShreyansh/Sales-Insights-/assets/165375652/e1b692ed-7594-4d8e-a6f1-82a72ab1eb65)
 
+Here is total sales quantity
+
+
+
+
+![Screenshot 2024-04-15 104322](https://github.com/HappyShreyansh/Sales-Insights-/assets/165375652/1c49e36d-13ee-4295-a4a1-be168ea1a776)
+
 
 
 ![Screenshot 2024-04-14 110351](https://github.com/HappyShreyansh/Sales-Insights-/assets/165375652/b4fbbb13-bb8f-4b22-9b80-28c4ff79febb)
