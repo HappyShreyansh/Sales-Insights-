@@ -30,3 +30,8 @@ here is sales revenue by customer name
 
 
 ![Screenshot 2024-04-15 122153](https://github.com/HappyShreyansh/Sales-Insights-/assets/165375652/79a6efe2-32de-4719-8705-0940c832373f)
+
+this is revenue by date 
+
+
+![Screenshot 2024-04-15 150346](https://github.com/HappyShreyansh/Sales-Insights-/assets/165375652/4837aff9-af4a-406a-b0da-500fd9903a28)
